@@ -3,7 +3,7 @@
 <h4>🎓 Acadêmico:</h4>
 <ul>
   <li>Graduado em Análise e Desenvolvimento de Sistemas, Universidade Positivo - UP </li>
-  <li>Especialização em Técnologia Java (EAD), UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ - UTFPR </li>
+  <li>Especialização em Tecnologia Java (EAD), Universidade Tecnológica Federal do Paraná - UTFPR </li>
 </ul>
 
 <h4>💻 Conhecimentos Técnicos: </h4>
