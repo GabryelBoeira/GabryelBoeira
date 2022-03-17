@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
 
 
@@ -26,17 +26,18 @@
 
 <h4><i style="font-size: 1.30rem" class="fas fa-search"></i> Mais Informações: </h4>
 <div class="row m-5 mt-4">
-  <div class="col-1 ml-2">
-   	<a style="font-size: 2rem" href="https://br.linkedin.com/in/gabryel-boeira">
-      <i class="fab fa-linkedin-in"></i>
-    </a>
-  </div>
-  <div class="col-1 ml-2">
-  	<a style="font-size: 2rem" href="https://gabryelboeira.github.io">
-     <i class="far fa-id-card"></i>
-    </a>  
-  </div>
+  	<div class="col-1 ml-2">
+   		<a style="font-size: 2rem" href="https://br.linkedin.com/in/	gabryel-boeira">
+      		<i class="fab fa-linkedin-in"></i>
+    	</a>
+  	</div>
+  	<div class="col-1 ml-2">
+  		<a style="font-size: 2rem" href="https://gabryelboeira.github.io">
+     		<i class="far fa-id-card"></i>
+    	</a>  
+  	</div>
 </div>
+
 
 <!--
 **GabryelBoeira/GabryelBoeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
