@@ -1,7 +1,10 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+<head>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
+</head>
 
 ### Hi there 👋
-
+</br>
 <h4><span style="font-size: 1.30rem" class="fas fa-user-graduate"></span> Acadêmico:</h4>
 <ul>
   <li>Graduado em Análise e Desenvolvimento de Sistemas, Universidade Positivo - UP </li>
@@ -22,11 +25,9 @@
   <li>RabbitMQ, Redis, Docker, Linux </li>
 </ul>
 
-
 <h4><i style="font-size: 1.30rem" class="fas fa-search"></i> Mais Informações: </h4>
 
 <div class="row m-5 mt-4">
-
   <div class="col-1 ml-2">
    	<a style="font-size: 2rem" href="https://br.linkedin.com/in/gabryel-boeira">
       <i class="fab fa-linkedin-in"></i>
@@ -37,7 +38,6 @@
      <i class="far fa-id-card"></i>
     </a>  
   </div>
-
 </div>
 
 <!--
