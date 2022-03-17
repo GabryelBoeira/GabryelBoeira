@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
 
 ### Hi there 👋
-</br>
+
 <h4><span style="font-size: 1.30rem" class="fas fa-user-graduate"></span> Acadêmico:</h4>
 <ul>
   <li>Graduado em Análise e Desenvolvimento de Sistemas, Universidade Positivo - UP </li>
