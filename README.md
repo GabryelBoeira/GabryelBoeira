@@ -24,7 +24,6 @@
 </ul>
 
 <h4><i style="font-size: 1.30rem" class="fas fa-search"></i> Mais Informações: </h4>
-
 <div class="row m-5 mt-4">
   <div class="col-1 ml-2">
    	<a style="font-size: 2rem" href="https://br.linkedin.com/in/gabryel-boeira">
