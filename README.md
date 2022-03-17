@@ -3,13 +3,13 @@
 
 ### Hi there 👋
 
-<h4><span style="font-size: 1.30rem" class="fas fa-user-graduate"></span> Acadêmico:</h4>
+<h4><i style="font-size: 1.30rem" class="fas fa-user-graduate"></i> Acadêmico:</h4>
 <ul>
   <li>Graduado em Análise e Desenvolvimento de Sistemas, Universidade Positivo - UP </li>
   <li>Especialização em Tecnologia Java (EAD), Universidade Tecnológica Federal do Paraná - UTFPR </li>
 </ul>
 
-<h4><span style="font-size: 1.30rem" class="fas fa-laptop"></span> Conhecimentos Técnicos: </h4>
+<h4><i style="font-size: 1.30rem" class="fas fa-laptop"></i> Conhecimentos Técnicos: </h4>
 <ul>
   <li>Java, Spring, Spring Boot, Java EE, JUnit4, JUnit5, Java Grails, Java Groovy </li>
   <li>HTML e CSS (bootstrap), JavaScript e JQuery</li>
@@ -17,7 +17,7 @@
   <li>Mobile: React Native </li>
 </ul>
 
-<h4><span style="font-size: 1.30rem" class="fas fa-tools"></span> Ferramentas:</h4>
+<h4><i style="font-size: 1.30rem" class="fas fa-tools"></i> Ferramentas:</h4>
 <ul>
   <li>VS Code, Git, Jira, Bitbucket, GitHub, Eclipse, IntelliJ </li>
   <li>RabbitMQ, Redis, Docker, Linux </li>
