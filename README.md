@@ -29,17 +29,19 @@
 </ul>
 
 <h4><span style="font-size: 1.30rem" class="fas fa-search"></span> Mais Informações: </h4>
+
 <div class="row m-5 mt-4">
   <div class="col-1 ml-2">
    	<a style="font-size: 2rem" href="https://br.linkedin.com/in/gabryel-boeira">
       <i class="fab fa-linkedin-in"></i>
     </a>
   </div>
+
   <div class="col-1 ml-2">
   	<a style="font-size: 2rem" href="https://gabryelboeira.github.io">
      <i class="far fa-id-card"></i>
     </a>  
-  </div>
+  </div>  
 </div>
 
 <!--
