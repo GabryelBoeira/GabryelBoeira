@@ -9,8 +9,8 @@
 <h4>💻 Conhecimentos Técnicos: </h4>
 <ul>
   <li>HTML e CSS (bootstrap), JavaScript e JQuery</li>
-  <li>Java, Spring Framework, Spring Boot, Java EE, JUnit4, JUnit5, Grails Framework, Java Groovy, Selenium WebDriver(java)</li>
-  <li>SQL: MySql, Hw; NOSql: MongoDB </li>
+  <li>Java (8, 11, 17), Spring Framework, Spring Boot, Java EE, JUnit4, JUnit5, Grails Framework, Java Groovy, Selenium WebDriver(java)</li>
+  <li>SQL: MySql, H2; NOSql: MongoDB </li>
   <li>Mobile: React Native, Android Nativo</li>
 </ul>
 
