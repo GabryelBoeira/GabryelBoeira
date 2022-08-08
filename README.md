@@ -16,9 +16,11 @@
 
 <h4>🛠️ Ferramentas:</h4>
 <ul>
-  <li>VS Code, Git, Jira, Bitbucket, GitHub, Eclipse, IntelliJ </li>
+  <li>Jira, Trello, vs Code, Git, Bitbucket, GitHub, Eclipse IDE, IntelliJ IDE </li>
   <li>RabbitMQ, Redis, Docker, Linux </li>
 </ul>
+
+
 
 <!--
 **GabryelBoeira/GabryelBoeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
