@@ -3,11 +3,8 @@
     <h3>🎓 Acadêmico:</h3>        
     <p style="margin-left:5%">
         <ul>
-            <li>Graduado em Análise e Desenvolvimento de Sistemas, Universidade Positivo - UP</li>
-        </ul>
-        <ul>
-            <li>Especialização em Tecnologia Java (EAD), Universidade Tecnológica Federal do Paraná - UTFPR</li>
-        </ul>
+            <li> Graduado em Análise e Desenvolvimento de Sistemas, Universidade Positivo - UP </li>
+        </ul>        
     </p>        
 </div>
 <div>
@@ -19,12 +16,12 @@
         </ul>
         <h4>Back-end: </h4>
         <ul>
-            <li>  Java (8, 11, 17), Spring Framework, Spring Boot, Java EE, JUnit4, JUnit5, Grails Framework, Java Groovy, Selenium WebDriver(Java), Gerenciamento e manipulação de filas com RabbitMQ 
-            </li>
+            <li> Java (7, 8, 11, 17), J2EE/JakartaEE, Spring Framework, Spring Boot, Grails Framework, Java Groovy, Gerenciamento e manipulação de filas com RabbitMQ </li>
+            <li> JUnit4, JUnit5, Selenium WebDriver(Java) </li>
         </ul>
         <h4>Banco de Dados: </h4>
         <ul>
-            <li>SQL: MySql, H2, Oracle </li>
+            <li>SQL: MySql, H2, Oracle, PostgreSQL </li>
             <li>NOSQL: MongoDB, Redis</li>
         </ul>
         <h4>Mobile: </h4>
