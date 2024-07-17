@@ -16,7 +16,7 @@
         </ul>
         <h4>Back-end: </h4>
         <ul>
-            <li> Java (7, 8, 11, 17), J2EE/JakartaEE, Spring Framework, Spring Boot, Grails Framework, Java Groovy, Gerenciamento e manipulação de filas com RabbitMQ </li>
+            <li> Java (7, 8, 11, 17, 21), J2EE/JakartaEE, Spring Framework, Spring Boot, Grails Framework, Java Groovy, Gerenciamento e manipulação de filas com RabbitMQ </li>
             <li> JUnit4, JUnit5, Selenium WebDriver(Java) </li>
         </ul>
         <h4>Banco de Dados: </h4>
