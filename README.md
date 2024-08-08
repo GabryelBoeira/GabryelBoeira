@@ -48,8 +48,7 @@
 
 <h3>Resumo dos Repositórios: </h3>
 <div style="margin-left:10%">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabryelBoeira&show_icons=true&theme=chartreuse-light&include_all_commits=true&count_private=true"/>    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelBoeira&layout=compact&langs_count=5&theme=chartreuse-light"/>
+       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryelboeira)
 </div>
 </br>
 <div style="text-align:center">
