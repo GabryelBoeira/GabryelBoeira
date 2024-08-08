@@ -46,10 +46,13 @@
 </div>
 </br>
 
-<h3>Resumo dos Repositórios: </h3>
+
+### Resumo dos Repositórios: 
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryelboeira)
+
 </br>
-<div style="text-align:center">
+<div>
     <h3><b>Total de Visualizações: </b></h3>    
     <img src="https://profile-counter.glitch.me/GabryelBoeira/count.svg" />
 </div>
@@ -57,3 +60,4 @@
 <!--
 **GabryelBoeira/GabryelBoeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
