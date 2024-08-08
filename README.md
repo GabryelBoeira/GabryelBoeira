@@ -47,9 +47,7 @@
 </br>
 
 <h3>Resumo dos Repositórios: </h3>
-<div style="margin-left:10%">
-       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryelboeira)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryelboeira)
 </br>
 <div style="text-align:center">
     <h3><b>Total de Visualizações: </b></h3>    
