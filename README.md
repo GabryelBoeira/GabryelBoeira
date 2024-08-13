@@ -54,7 +54,7 @@
 </br>
 <div>
     <h3><b>Total de Visualizações: </b></h3>    
-    <img src="https://profile-counter.glitch.me/GabryelBoeira/count.svg" />
+    <img src="https://profile-counter.deno.dev/GabryelBoeira/count.svg" alt="GabryelBoeira :: Visitor's Count"/>
 </div>
 
 <!--
