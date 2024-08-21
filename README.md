@@ -49,7 +49,7 @@
 ### Resumo dos Repositórios: 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryelboeira)
+![GabryelBoeira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelBoeira&hide=contribs&rank_icon=github&show_icons=true)
 
 </br>
 <div>
