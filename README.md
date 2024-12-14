@@ -11,7 +11,7 @@
     <div style="margin-left:5%">
         <h4 style="align:left">Front-end: </h4>
         <ul>
-            <li>HTML e CSS (bootstrap), JavaScript e JQuery</li>
+            <li>HTML e CSS (bootstrap), JavaScript e TypeScript, JQuery, React JS, Node Js, </li>
         </ul>
         <h4>Back-end: </h4>
         <ul>
