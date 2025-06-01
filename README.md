@@ -1,63 +1,64 @@
-<div>
-    <h3>🎓 Acadêmico:</h3>        
-    <p style="margin-left:5%">
-        <ul>
-            <li> Graduado em Análise e Desenvolvimento de Sistemas, Universidade Positivo - UP </li>
-        </ul>        
-    </p>        
-</div>
-<div>
-    <h3>💻 Conhecimentos Técnicos: </h3>
-    <div style="margin-left:5%">
-        <h4 style="align:left">Front-end: </h4>
-        <ul>
-            <li>HTML e CSS (bootstrap), JavaScript e TypeScript, JQuery, React JS, Node Js, </li>
-        </ul>
-        <h4>Back-end: </h4>
-        <ul>
-            <li> Java (7, 8, 11, 17, 21), J2EE/JakartaEE, Spring Framework, Kotlin, Spring Boot, Grails Framework, Java Groovy, RabbitMQ, Python </li>
-            <li> JUnit4, JUnit5, Selenium WebDriver(Java) </li>
-        </ul>
-        <h4>Banco de Dados: </h4>
-        <ul>
-            <li>SQL: MySql, H2, Oracle, PostgreSQL </li>
-            <li>NOSQL: MongoDB, Redis</li>
-        </ul>
-        <h4>Mobile: </h4>
-        <ul>
-            <li>React Native, Android Nativo</li>
-        </ul>
-    </div>
-</div>
-<div>
-    <h3>🛠️ Ferramentas: </h3>
-    <div style="margin-left:5%">
-        <h4 style="align:left">Desenvolvimento e Gerenciamento: </h4>
-        <ul>
-            <li>Docker, Maven, Jira, Trello, vs Code, Git, GitFlow, Bitbucket, GitHub, Eclipse IDE, IntelliJ IDE </li>
-        </ul>
-        <h4 style="align:left">Sistemas Operacionais: </h4>
-        <ul>
-            <li>Linux: Ubuntu, Fedora, Chrome OS, Mint </li>
-            <li>Windows: 7, 10, 11 </li>
-        </ul>
-    </div>
-</div>
-</br>
+#### Olá! 👋 Sou desenvolvedor **Java Back-end** com **6+ anos de experiência**. Sou especialista na **migração e manutenção de projetos legados/monólitos**, na arquitetura e implementação de **microsserviços**, e na resolução de problemas complexos através de **suporte nível 3**, assegurando a excelência e escalabilidade das aplicações.
 
+---
 
-### Resumo dos Repositórios: 
+### 🎓 Formação
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelBoeira&layout=compact)
-![GabryelBoeira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelBoeira&hide=contribs&rank_icon=github&show_icons=true)
+* **Análise e Desenvolvimento de Sistemas** - Universidade Positivo (UP)
 
-</br>
-<div>
-    <h3><b>Total de Visualizações: </b></h3>    
-    <img src="https://profile-counter.deno.dev/GabryelBoeira/count.svg" alt="GabryelBoeira :: Visitor's Count"/>
-</div>
+---
 
-<!--
-**GabryelBoeira/GabryelBoeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 💻 Minhas Especialidades
 
+Minha expertise principal reside no **desenvolvimento Back-end com Java**, com forte domínio em:
+
+* **Java** (versões 7, 8, 11, 17, 21)
+* **J2EE/JakartaEE** utilizado tanto em Projetos legados e com **Quarkus Framework**
+* **Ecossistema Spring** (Spring Framework, Spring Boot, Spring MVC, Spring WebFlux, Spring Data)
+* **Kotlin** e **Grails Framework**
+* Criação de **APIs RESTful** com **Swagger**
+* Persistência de dados com **JPA**, **Hibernate (ORM)**, **JDBC** e **MyBatis** 
+* Desenvolvimento de interfaces Java com **JSF**, **JSP** e **Thymeleaf**
+* Implementação de **Padrões de Projeto** (MVC, Microsserviços, Hexagonal, MVVM, Arquitetura Orientada a Eventos) e **Boas práticas** (SOLID, AAA(Arrange, Act, Assert), RESTful, KISS(Keep It Simple, Stupid), Clean Code e Low Code entre outros Patterns)
+* Mensageria com **Kafka** e **RabbitMQ**
+* Testes e Qualidade de Software com **JUnit** (4 e 5), **Mockito**, **Selenium WebDriver (Java)**, **ArchUnit** e **SonarQube**
+
+Também possuo conhecimentos em:
+
+* **Front-end**: React JS, JavaScript, TypeScript, HTML, CSS (Bootstrap), JQuery, Node.js
+* **Banco de Dados**: SQL (MySQL, Oracle, PostgreSQL, H2), NoSQL (MongoDB, Redis)
+* **Mobile**: React Native, Android Nativo
+
+<a href="https://github.com/GabryelBoeira">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelBoeira&layout=compact"  width="350" height="200" alt="Top Langs">
+</a>
+
+---
+
+### 🛠️ Ferramentas & DevOps
+
+* **Contêineres**: Docker (Para ambientes de desenvolvimento)
+* **Controle de Versão**: Git (GitFlow, GitHub, Bitbucket, GitLab)
+* **Gerenciamento de Projetos**: Jira, Trello, Confluence 
+* **IDEs**: IntelliJ IDEA, Eclipse IDE, VS Code, Android Studio
+* **Automação de Build**: Maven, Gradle, Jenkins 
+* **Sistemas Operacionais**: Linux (Ubuntu, Fedora, Chrome OS, Mint), Windows (7, 10, 11)
+
+---
+
+### 🔗 Saiba Mais
+
+Para mais detalhes sobre meus projetos e experiência, visite:
+
+* [**Meu Site/Portfólio Pessoal**](https://gabryelboeira.github.io/)
+* [**Meu Perfil no LinkedIn**](https://www.linkedin.com/in/gabryel-boeira/)
+
+---
+
+[![GabryelBoeira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelBoeira&hide=contribs&rank_icon=github&show_icons=true)](https://github.com/GabryelBoeira)
+
+---
+
+### Total de Visualizações
+
+![Profile views](https://profile-counter.deno.dev/GabryelBoeira/count.svg)
