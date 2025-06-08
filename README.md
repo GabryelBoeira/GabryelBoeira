@@ -29,10 +29,6 @@ Também possuo conhecimentos em:
 * **Banco de Dados**: SQL (MySQL, Oracle, PostgreSQL, H2), NoSQL (MongoDB, Redis)
 * **Mobile**: React Native, Android Nativo
 
-<a href="https://github.com/GabryelBoeira">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelBoeira&layout=compact"  width="350" height="200" alt="Top Langs">
-</a>
-
 ---
 
 ### 🛠️ Ferramentas & DevOps
@@ -49,16 +45,23 @@ Também possuo conhecimentos em:
 ### 🔗 Saiba Mais
 
 Para mais detalhes sobre meus projetos e experiência, visite:
-
 * [**Meu Site/Portfólio Pessoal**](https://gabryelboeira.github.io/)
+
 * [**Meu Perfil no LinkedIn**](https://www.linkedin.com/in/gabryel-boeira/)
 
 ---
 
-[![GabryelBoeira GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelBoeira&hide=contribs&rank_icon=github&show_icons=true)](https://github.com/GabryelBoeira)
+### ⚡ Github Stats</b></summary>
+
+<div align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelBoeira&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabryelBoeira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelBoeira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</div>
 
 ---
 
 ### Total de Visualizações
 
 ![Profile views](https://profile-counter.deno.dev/GabryelBoeira/count.svg)
+
