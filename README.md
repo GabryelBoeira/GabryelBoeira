@@ -1,4 +1,4 @@
-#### Olá! 👋 Sou desenvolvedor **Java Back-end** com **6+ anos de experiência**. Sou especialista na **migração e manutenção de projetos legados/monólitos**, na arquitetura e implementação de **microsserviços**, e na resolução de problemas complexos através de **suporte nível 3**, assegurando a excelência e escalabilidade das aplicações.
+#### Olá! 👋 Sou desenvolvedor **Java Back-end** com mais de **6 anos de experiência**. Sou especialista na **migração e manutenção de projetos legados/monólitos**, na arquitetura e implementação de **microsserviços**, e na resolução de problemas complexos através de **suporte nível 3**, assegurando a excelência e escalabilidade das aplicações.
 
 ---
 
