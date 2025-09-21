@@ -14,31 +14,32 @@ Minha expertise principal reside no **desenvolvimento Back-end com Java**, com f
 
 * **Java** (versões 7, 8, 11, 17, 21)
 * **J2EE/JakartaEE** utilizado tanto em Projetos legados e com **Quarkus Framework**
-* **Ecossistema Spring** (Spring Framework, Spring Boot, Spring MVC, Spring WebFlux, Spring Data)
-* **Kotlin** e **Grails Framework**
-* Criação de **APIs RESTful** com **Swagger**
+* **Ecossistema Spring** (Spring Framework, Spring Boot, Spring MVC, Spring WebFlux, Spring Data, Spring Cloud)
+* **Kotlin** e **Grails Framework** 
+* Criação de **APIs RESTful** com documentação **Swagger**
 * Persistência de dados com **JPA**, **Hibernate (ORM)**, **JDBC** e **MyBatis** 
 * Desenvolvimento de interfaces Java com **JSF**, **JSP** e **Thymeleaf**
 * Implementação de **Padrões de Projeto** (MVC, Microsserviços, Hexagonal, MVVM, Arquitetura Orientada a Eventos) e **Boas práticas** (SOLID, AAA(Arrange, Act, Assert), RESTful, KISS(Keep It Simple, Stupid), Clean Code e Low Code entre outros Patterns)
 * Mensageria com **Kafka** e **RabbitMQ**
+* **Banco de Dados**: SQL (MySQL, Oracle, PostgreSQL, H2), NoSQL (MongoDB, Redis)
 * Testes e Qualidade de Software com **JUnit** (4 e 5), **Mockito**, **Selenium WebDriver (Java)**, **ArchUnit** e **SonarQube**
 
 Também possuo conhecimentos em:
 
 * **Front-end**: React JS, JavaScript, TypeScript, HTML, CSS (Bootstrap), JQuery, Node.js
-* **Banco de Dados**: SQL (MySQL, Oracle, PostgreSQL, H2), NoSQL (MongoDB, Redis)
 * **Mobile**: React Native, Android Nativo
 
 ---
 
 ### 🛠️ Ferramentas & DevOps
 
-* **Contêineres**: Docker (Para ambientes de desenvolvimento)
-* **Controle de Versão**: Git (GitFlow, GitHub, Bitbucket, GitLab)
+* **Contêineres**: Docker e Docker Compose.
+* **Integração e Entrega Contínua (CI/CD)**: Jenkins, GitLab CI e Bamboo.
+* **Controle de Versão**: Git (GitHub, Bitbucket, GitLab)
 * **Gerenciamento de Projetos**: Jira, Trello, Confluence 
-* **IDEs**: IntelliJ IDEA, Eclipse IDE, VS Code, Android Studio
-* **Automação de Build**: Maven, Gradle, Jenkins 
-* **Sistemas Operacionais**: Linux (Ubuntu, Fedora, Chrome OS, Mint), Windows (7, 10, 11)
+* **IDEs**: IntelliJ IDEA, Eclipse IDE, VS Code, Android Studio.
+* **Automação de Build**: Maven, Gradle, Jenkins.
+* **Sistemas Operacionais**: Linux (Ubuntu, Fedora, Chrome OS, Mint), Windows (7, 10, 11).
 
 ---
 
@@ -46,7 +47,6 @@ Também possuo conhecimentos em:
 
 Para mais detalhes sobre meus projetos e experiência, visite:
 * [**Meu Site/Portfólio Pessoal**](https://gabryelboeira.github.io/)
-
 * [**Meu Perfil no LinkedIn**](https://www.linkedin.com/in/gabryel-boeira/)
 
 ---
