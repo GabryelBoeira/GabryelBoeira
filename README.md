@@ -1,4 +1,7 @@
-#### Olá! 👋 Sou desenvolvedor **Java Back-end** com mais de **6 anos de experiência**. Sou especialista na **migração e manutenção de projetos legados/monólitos**, na arquitetura e implementação de **microsserviços**, e na resolução de problemas complexos através de **suporte nível 3**, assegurando a excelência e escalabilidade das aplicações.
+### Olá! 👋
+
+#### Desenvolvedor Java Pleno com foco em sistemas de alta disponibilidade e escalabilidade. Experiência consolidada no ecossistema Spring e na modernização de arquiteturas de missão crítica, atuando desde a modelagem de dados até a automação de esteiras CI/CD.
+#### Comprometido com a entrega de software de alta qualidade através de Clean Code, testes automatizados (JUnit) e análise contínua com SonarQube. Experiente em ambientes ágeis, transformando requisitos de negócio em soluções técnicas robustas.
 
 ---
 
