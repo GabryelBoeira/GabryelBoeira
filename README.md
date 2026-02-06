@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-#### Desenvolvedor Java Pleno com foco em sistemas de alta disponibilidade e escalabilidade. Experiência consolidada no ecossistema Spring e na modernização de arquiteturas de missão crítica, atuando desde a modelagem de dados até a automação de esteiras CI/CD.
+#### Atuo como Desenvolvedor Java com foco em sistemas de alta disponibilidade e escalabilidade. Experiência consolidada no ecossistema Spring e na modernização de arquiteturas de missão crítica, atuando desde a modelagem de dados até a automação de esteiras CI/CD.
 #### Comprometido com a entrega de software de alta qualidade através de Clean Code, testes automatizados (JUnit) e análise contínua com SonarQube. Experiente em ambientes ágeis, transformando requisitos de negócio em soluções técnicas robustas.
 
 ---
