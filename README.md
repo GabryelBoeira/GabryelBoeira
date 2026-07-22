@@ -1,7 +1,8 @@
 ### Olá! 👋
 
-#### Atuo como Desenvolvedor Java com foco em sistemas de alta disponibilidade e escalabilidade. Experiência consolidada no ecossistema Spring e na modernização de arquiteturas de missão crítica, atuando desde a modelagem de dados até a automação de esteiras CI/CD.
-#### Comprometido com a entrega de software de alta qualidade através de Clean Code, testes automatizados (JUnit) e análise contínua com SonarQube. Experiente em ambientes ágeis, transformando requisitos de negócio em soluções técnicas robustas.
+#### Atuo como Desenvolvedor Java especializado na evolução e resiliência de arquiteturas distribuídas, com foco no desenho de microsserviços e BFFs para ambientes transacionais de alta disponibilidade no setor bancário. 
+
+#### Experiência sólida na concepção de novos serviços do zero — aplicando arquitetura em camadas e Programação Orientada a Aspectos (AOP) —, além de atuação direta em migrações de core bancário (Pix, TED, boletos e DDA) e na implementação de motores de antifraude em tempo real. Ponto focal técnico no time, combinando qualidade de código (Clean Code, JUnit, SonarQube), suporte Nível 3 em produção e práticas de DevOps.
 
 ---
 
@@ -15,34 +16,33 @@
 
 Minha expertise principal reside no **desenvolvimento Back-end com Java**, com forte domínio em:
 
-* **Java** (versões 7, 8, 11, 17, 21)
-* **J2EE/JakartaEE** utilizado tanto em Projetos legados e com **Quarkus Framework**
+* **Java** (versões 8, 11, 17, 21 e 25)
 * **Ecossistema Spring** (Spring Framework, Spring Boot, Spring MVC, Spring WebFlux, Spring Data, Spring Cloud)
-* **Kotlin** e **Grails Framework** 
-* Criação de **APIs RESTful** com documentação **Swagger**
-* Persistência de dados com **JPA**, **Hibernate (ORM)**, **JDBC** e **MyBatis** 
-* Desenvolvimento de interfaces Java com **JSF**, **JSP** e **Thymeleaf**
-* Implementação de **Padrões de Projeto** (MVC, Microsserviços, Hexagonal, MVVM, Arquitetura Orientada a Eventos) e **Boas práticas** (SOLID, AAA(Arrange, Act, Assert), RESTful, KISS(Keep It Simple, Stupid), Clean Code e Low Code entre outros Patterns)
-* Mensageria com **Kafka** e **RabbitMQ**
-* **Banco de Dados**: SQL (MySQL, Oracle, PostgreSQL, H2), NoSQL (MongoDB, Redis)
-* Testes e Qualidade de Software com **JUnit** (4 e 5), **Mockito**, **Selenium WebDriver (Java)**, **ArchUnit** e **SonarQube**
+* **Arquitetura & Padrões**: Microsserviços, BFF (Backend For Frontend), Arquitetura em Camadas, AOP (AspectJ), Event-Driven Architecture, Design Patterns, SOLID, Clean Code e RESTful APIs (Swagger)
+* **Domínio Bancário & Integrações**: Parametrização e fluxos de Pix, TED, Boletos e DDA (emissão, instrução e baixa), além de integração com sistemas Antifraude em Tempo Real
+* **J2EE/Jakarta EE** (manutenção e modernização de legado) e estudos com **Quarkus Framework**
+* **Mensageria & Comunicação**: Apache Kafka e RabbitMQ
+* **Bancos de Dados**: PostgreSQL, MongoDB, Oracle, MySQL, Redis, Spring Data JPA, Hibernate, JDBC e MyBatis
+* **Segurança & Identidade**: Keycloak, OAuth2 e Spring Security
+* **Testes & Qualidade**: JUnit (4 e 5), Mockito, ArchUnit, SonarQube e Selenium
+* **Linguagens e Frameworks Adicionais**: Kotlin, Grails Framework e interfaces web (JSF, JSP, Thymeleaf)
 
 Também possuo conhecimentos em:
 
-* **Front-end**: React JS, JavaScript, TypeScript, HTML, CSS (Bootstrap), JQuery, Node.js
+* **Front-end**: React JS, JavaScript, TypeScript, HTML, CSS (Bootstrap), jQuery, Node.js
 * **Mobile**: React Native, Android Nativo
 
 ---
 
-### 🛠️ Ferramentas & DevOps
+### 🛠️ Ferramentas, Infraestrutura & DevOps
 
-* **Contêineres**: Docker e Docker Compose.
-* **Integração e Entrega Contínua (CI/CD)**: Jenkins, GitLab CI e Bamboo.
+* **Infraestrutura & SO**: Linux (administração de VMs em produção), Windows
+* **Contêineres**: Docker e Docker Compose
+* **CI/CD & Automação**: Jenkins, GitLab CI, Bamboo, Maven e Gradle
+* **Sustentação & Operação**: Atendimento e resolução de incidentes Nível 3 em Produção (PRD)
 * **Controle de Versão**: Git (GitHub, Bitbucket, GitLab)
-* **Gerenciamento de Projetos**: Jira, Trello, Confluence 
-* **IDEs**: IntelliJ IDEA, Eclipse IDE, VS Code, Android Studio.
-* **Automação de Build**: Maven, Gradle, Jenkins.
-* **Sistemas Operacionais**: Linux (Ubuntu, Fedora, Chrome OS, Mint), Windows (7, 10, 11).
+* **Gerenciamento & Ágil**: Jira, Confluence, Trello
+* **IDEs**: IntelliJ IDEA, Eclipse, VS Code, Android Studio
 
 ---
 
