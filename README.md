@@ -63,10 +63,3 @@ Para mais detalhes sobre meus projetos e experiência, visite:
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabryelBoeira&theme=default&cache_seconds=1800" />
 
 </div>
-
----
-
-### Total de Visualizações
-
-![Profile views](https://profile-counter.deno.dev/GabryelBoeira/count.svg)
-
