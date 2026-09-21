@@ -9,6 +9,7 @@
 ### 🎓 Formação
 
 * **Análise e Desenvolvimento de Sistemas** - Universidade Positivo (UP)
+* **Cursando Especialização em Tecnologia Java** - Universidade Tecnológica Federal do Paraná (UTFPR)
 
 ---
 
